@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: grey;
+}
+.container{
+    border:1px solid black;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    background-color: rgb(70, 70, 70);
+}
+.head{
+    font-size: 3rem;
+    color: orange;
+}
+.clock{
+    font-size: 3rem;
+    color: orange;
+}
